@@ -82,6 +82,9 @@
   
 - **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
   Authoring tool for CSS which uses JavaScript as a host language.
+  
+- **[HTML-GL](https://github.com/pixelscommander/html-gl)** by [Denis Radin](https://github.com/pixelsxommander)<br>
+  Reactively renders your HTML/CSS in WebGL for higher performance and advanced effects.
 
 - **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Fast and secure standalone server for resizing and converting remote images.
